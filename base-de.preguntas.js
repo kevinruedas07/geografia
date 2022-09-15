@@ -19,13 +19,13 @@ function LaTeX(code) {
         },
         {
         pregunta: "3 ¿En que continente se encuentra Suriam?",
-        respuesta: "Rusia",
-        distractores: ["China", "India"],
+        respuesta: "America del Sur",
+        distractores: ["Oceania", "Europa"],
         },
         {
         pregunta: "4 ¿Cual es la nacion mas pequeña del mundo?",
-        respuesta: "America del Sur",
-        distractores: ["Oceania", "Europa"],
+        respuesta: "El Vaticano",
+        distractores: ["Monaco", "Andorra"],
         },
         {
           pregunta: "5 ¿Cual es la unica ciudad que esta en dos continentes distintos?",
