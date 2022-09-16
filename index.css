@@ -5,7 +5,7 @@
   body {
     margin: 0;
     padding: 0;
-    background-color: rgb(0, 157, 26);;
+    background-color: #12480afd;;
     background-image: url(https://i.ibb.co/VDQRzzP/IMG-20220915-161127.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -24,7 +24,7 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background: rgb(11, 194, 41);
+    background: #12480afd;
     border-radius: 15px;
     margin: 15px 440px;
     padding: 10px;
@@ -33,7 +33,7 @@
   .opcion {
     text-align: center;
     width: 30vw;
-    background: rgb(210, 222, 37);
+    background: #12480afd;
     
     border-radius: 15px;
     margin: 15px 560px;
