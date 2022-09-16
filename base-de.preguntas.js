@@ -75,7 +75,7 @@ function LaTeX(code) {
         {
           pregunta: "14 ¿Cual es la capital de Nicaragua?",
           respuesta: "Managua",
-          distractores: ["San tiago", "Brasil"],
+          distractores: ["Santiago", "Brasil"],
         },
         {
           pregunta: "15 ¿Cual es la segunda montaña mas alta del mundo?",
